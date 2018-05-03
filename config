@@ -6,3 +6,8 @@
 	filemode = false
 	logallrefupdates = true
 	bare = false
+[remote "billreceipt"]
+	url = https://danmakaranta%40yahoo.com@github.com/faisalsash/mysamplerepo.git
+	url = https://danmakaranta%40yahoo.com@github.com/faisalsash/billreceipt.git
+	url = https://github.com/faisalsash/javabillreceiptsample.git
+	fetch = +refs/heads/*:refs/remotes/billreceipt/*
